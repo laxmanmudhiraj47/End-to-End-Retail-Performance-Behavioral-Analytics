@@ -1,4 +1,4 @@
-# 📊 Retail Sales Capstone – End-to-End Retail Performance & Behavioral Analytics
+# 📊  End-to-End Retail Performance & Behavioral Analytics
 
 <p align="center">
 
@@ -13,7 +13,7 @@
 
 # 📌 Project Overview
 
-The **Retail Sales Capstone** is an end-to-end data analytics project designed to transform raw retail transaction data into meaningful business insights. The project demonstrates the complete analytics workflow, including **data cleaning, exploratory data analysis (EDA), SQL-based business analysis, and interactive Power BI dashboards**.
+This is an end-to-end data analytics project designed to transform raw retail transaction data into meaningful business insights. The project demonstrates the complete analytics workflow, including **data cleaning, exploratory data analysis (EDA), SQL-based business analysis, and interactive Power BI dashboards**.
 
 The primary objective is to help retail businesses monitor sales performance, understand customer purchasing behavior, identify profitable products, and support data-driven decision-making.
 
@@ -306,7 +306,7 @@ git clone https://github.com/yourusername/Retail_Sales_Capstone.git
 
 # 👨‍💻 Author
 
-## **Laxman Mudhiraj**
+## **Boin Laxman**
 
 **Aspiring Data Analyst**
 
