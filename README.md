@@ -89,31 +89,31 @@ The raw dataset was cleaned and transformed before analysis.
 
 # 📊 Dashboard Screenshots
 
-## Executive Dashboard
+## Sales Dashboard
 
 ![Dashboard 1](Dashboard_screen_shots/Screenshot%202026-06-26%20003110.png)
 
 ---
 
-## Sales Dashboard
+## Customers Dashboard
 
 ![Dashboard 2](Dashboard_screen_shots/Screenshot%202026-06-26%20003134.png)
 
 ---
 
-## Customer Dashboard
+## Products Dashboard
 
 ![Dashboard 3](Dashboard_screen_shots/Screenshot%202026-06-27%20155753.png)
 
 ---
 
-## Product Dashboard
+## Returns Dashboard
 
 ![Dashboard 4](Dashboard_screen_shots/Screenshot%202026-06-27%20155809.png)
 
 ---
 
-## Regional Dashboard
+## Stores Dashboard
 
 ![Dashboard 5](Dashboard_screen_shots/Screenshot%202026-06-27%20155826.png)
 
@@ -134,49 +134,6 @@ The raw dataset was cleaned and transformed before analysis.
 
 ---
 
-# 📊 Dashboard Features
-
-### 📌 Executive Dashboard
-
-- Total Sales
-- Total Profit
-- Total Orders
-- KPI Cards
-- Monthly Sales Trend
-- Sales by Region
-
-### 📈 Sales Analysis
-
-- Monthly Sales Trend
-- Sales by Category
-- Sales by Sub-Category
-- Top Selling Products
-- Bottom Selling Products
-
-### 👥 Customer Analysis
-
-- Customer Segmentation
-- Gender Distribution
-- Age Group Analysis
-- Top Customers
-- Purchase Behavior
-
-### 🛍️ Product Analysis
-
-- Product Performance
-- Category Analysis
-- Profit Analysis
-- Product Ranking
-- Return Analysis
-
-### 🌍 Regional Analysis
-
-- Region-wise Sales
-- Store Performance
-- City-wise Analysis
-- Revenue Distribution
-
----
 
 # 📌 SQL Business Analysis
 
