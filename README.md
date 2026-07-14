@@ -219,7 +219,7 @@ Business Insights & Reporting
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Retail_Sales_Capstone.git
+git clone https://github.com/laxmanmudhiraj47/Retail_Sales_Capstone.git
 ```
 
 ### 2️⃣ Open the Project
